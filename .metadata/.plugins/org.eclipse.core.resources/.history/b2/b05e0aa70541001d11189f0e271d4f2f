@@ -1,0 +1,53 @@
+package com.gunadhya.diem.controllers;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.gunadhya.diem.entities.StatusEntity;
+import com.gunadhya.diem.service.StatusService;
+
+@RestController
+public class StatusController 
+{		
+		@Autowired
+		private StatusService statusController;
+		
+		//get all user handler
+//		@GetMapping("/getAllStatusEntity")
+//		public List<StatusEntity> getAllStatusEntity()
+//		{
+//			return StatusService.getAllStatusEntity();
+//		}
+		
+		
+		// get single user handler
+//		@GetMapping("/getStatusEntityById/{Id}")
+//		public StatusEntity getStatusEntity()
+//		{
+//			return StatusService.getStatusEntityById(int Id);
+//		}
+		
+		//add new user handler
+//		@PostMapping("/addStatusEntity")
+//		public StatusEntity addStatusEntity(@RequestBody StatusEntity statusEntity)
+//		{
+//			StatusService.addStatusEntity(statusEntity);
+//			return statusEntity; 
+//		}
+		
+		
+		 //delete book handler
+//		@DeleteMapping("/deleteStatusEntity/{Id}")
+//		public StatusEntity addStatusEntity(@PathVariable("Id") int Id)
+//		{
+//			
+//			StatusService.deleteStatusEntityById(Id);
+//			return statusEntity; 
+//		}
+		
+}

@@ -1,0 +1,5 @@
+package com.gunadhya.diem.entities;
+
+public class StatusEntity {
+
+}

@@ -1,0 +1,5 @@
+package com.gunadhya.diem.service;
+
+public class StatusService {
+
+}

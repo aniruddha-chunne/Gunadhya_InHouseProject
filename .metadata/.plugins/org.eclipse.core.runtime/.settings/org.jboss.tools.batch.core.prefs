@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+org.jboss.tools.batch.core.validator.problem.emptyReference=ignore
+org.jboss.tools.batch.core.validator.problem.invalidJobRestartable=ignore
+org.jboss.tools.batch.core.validator.problem.loopIsDetected=ignore
+org.jboss.tools.batch.core.validator.problem.targetNotFound=ignore
+org.jboss.tools.batch.core.validator.problem.unknownArtifactName=ignore
+org.jboss.tools.batch.core.validator.problem.unknownExceptionClass=ignore
+org.jboss.tools.batch.core.validator.problem.unknownProperty=ignore
+org.jboss.tools.batch.core.validator.problem.unusedProperty=ignore
+org.jboss.tools.batch.core.validator.problem.wrongArtifactType=ignore
+org.jboss.tools.batch.core.validator.problem.wrongExceptionClass=ignore
+org.jboss.tools.common.validator.problem.wrongBuilderOrder=ignore

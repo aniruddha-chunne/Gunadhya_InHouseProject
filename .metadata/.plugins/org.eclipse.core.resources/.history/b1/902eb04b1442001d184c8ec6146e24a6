@@ -1,0 +1,5 @@
+package com.gunadhya.diem.Dao;
+
+public interface StatusEnityRepository {
+
+}

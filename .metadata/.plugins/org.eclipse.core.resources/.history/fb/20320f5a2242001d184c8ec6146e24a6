@@ -1,0 +1,12 @@
+package com.gunadhya.diem.Dao;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.gunadhya.diem.entities.StatusEntity;
+
+public interface StatusEnityRepository extends CrudRepository<StatusEntity, Integer> 
+{
+	public StatusEntity findByStatusEntityId(int Id);
+	
+	
+}

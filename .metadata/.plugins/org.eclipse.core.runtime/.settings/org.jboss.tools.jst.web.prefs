@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+org.jboss.tools.jst.web.validator.problem.invalidErrorPageRef=ignore
+org.jboss.tools.jst.web.validator.problem.invalidExceptionType=ignore
+org.jboss.tools.jst.web.validator.problem.invalidFilterClass=ignore
+org.jboss.tools.jst.web.validator.problem.invalidFilterRef=ignore
+org.jboss.tools.jst.web.validator.problem.invalidFormErrorPageRef=ignore
+org.jboss.tools.jst.web.validator.problem.invalidFormLoginPageRef=ignore
+org.jboss.tools.jst.web.validator.problem.invalidIconRef=ignore
+org.jboss.tools.jst.web.validator.problem.invalidJspFileRef=ignore
+org.jboss.tools.jst.web.validator.problem.invalidListenerClass=ignore
+org.jboss.tools.jst.web.validator.problem.invalidMessageDestinationType=ignore
+org.jboss.tools.jst.web.validator.problem.invalidResType=ignore
+org.jboss.tools.jst.web.validator.problem.invalidRoleRef=ignore
+org.jboss.tools.jst.web.validator.problem.invalidServletClass=ignore
+org.jboss.tools.jst.web.validator.problem.invalidServletRef=ignore
+org.jboss.tools.jst.web.validator.problem.invalidTaglibRef=ignore
+org.jboss.tools.jst.web.validator.problem.invalidWelcomeFileRef=ignore

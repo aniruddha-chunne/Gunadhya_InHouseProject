@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+org.jboss.tools.cdi.seam.config.core.validator.problem.abstractTypeIsConfiguredAsBean=ignore
+org.jboss.tools.cdi.seam.config.core.validator.problem.annotationExpected=ignore
+org.jboss.tools.cdi.seam.config.core.validator.problem.beanConstructorIsMissing=ignore
+org.jboss.tools.cdi.seam.config.core.validator.problem.inlineBeanTypeMismatch=ignore
+org.jboss.tools.cdi.seam.config.core.validator.problem.unresolvedConstructor=ignore
+org.jboss.tools.cdi.seam.config.core.validator.problem.unresolvedMember=ignore
+org.jboss.tools.cdi.seam.config.core.validator.problem.unresolvedMethod=ignore
+org.jboss.tools.cdi.seam.config.core.validator.problem.unresolvedType=ignore

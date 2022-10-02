@@ -1,0 +1,35 @@
+package com.gunadhya.diem.controllers;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.gunadhya.diem.entities.StatusEntity;
+
+@RestController
+public class StatusController 
+{		
+		@Autowired
+		private StatusController statusController;
+		
+//		@GetMapping("/getAllStatusEntity")
+//		public List<StatusEntity> getAllStatusEntity()
+//		{
+//			return statusController.getAllStatusEntity();
+//		}
+		
+//		@GetMapping("/getStatusEntityById/{Id}")
+//		public StatusEntity getStatusEntity()
+//		{
+//			return statusController.getStatusEntityById(int Id);
+//		}
+		
+		@PostMapping()
+		public StatusEntity addStatusEntity()
+		{
+			return statusController.addStatusEntity();
+		}
+		
+		
+}

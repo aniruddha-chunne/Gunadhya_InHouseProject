@@ -1,0 +1,22 @@
+package com.gunadhya.diem.service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class StatusService 
+{
+	
+//	public List<StatusEntity> getAllStatusEntity()
+//	{
+//		return list;
+//	}
+//	
+	
+
+//	public StatusEntity getStatusEntityById(int Id)
+//	{
+//		return;
+//	}
+	
+	
+}

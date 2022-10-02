@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+org.jboss.tools.common.validator.problem.wrongBuilderOrder=ignore
+org.jboss.tools.jst.web.kb.validator.problem.elSyntaxError=ignore
+org.jboss.tools.jst.web.kb.validator.problem.kbCapabilitiesAreNotEnabledInJavaModule=ignore
+org.jboss.tools.jst.web.kb.validator.problem.requiredKbCapabilitiesAreMissing=ignore
+org.jboss.tools.jst.web.kb.validator.problem.unknownElVariablePropertyName=ignore
